@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Arial', sans-serif;
+  background-color: #111; /* Dark background */
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 0; /* behind content */
+}
+
+.search-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+
+/* 3D letters logo */
+.logo {
+  font-size: 90px;
+  font-weight: 900;
+  margin-bottom: 60px;
+  text-transform: uppercase;
+  text-shadow:
+    1px 1px 0 #000,
+    2px 2px 0 #111,
+    3px 3px 0 #222,
+    4px 4px 0 #333,
+    5px 5px 0 #444;
+}
+
+.search-box {
+  position: relative;
+  width: 600px;
+  max-width: 90vw;
+  margin: auto;
+  z-index: 1;
+}
+
+
+input[type="text"] {
+  width: 100%;
+  padding: 16px 24px;
+  font-size: 20px;
+  border: none;
+  border-radius: 30px;
+  outline: none;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  background-color: #ffffff;
+  transition: all 0.3s ease;
+}
+
+input[type="text"]:focus {
+  box-shadow: 0 4px 20px rgba(66,133,244,0.5);
+}
+
+ul#suggestions {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%); /* centers it below input */
+  top: 100%;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-top: none;
+  border-radius: 0 0 24px 24px;
+  width: 600px; /* same as input box */
+  max-width: 90vw;
+  max-height: 220px;
+  overflow-y: auto;
+  display: none;
+  z-index: 1000;
+  text-align: left;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+
+ul#suggestions li {
+  padding: 12px 20px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background 0.2s ease;
+}
+
+ul#suggestions li:hover {
+  background-color: #f1f1f1;
+}
+
+.highlight {
+  font-weight: bold;
+  color: #606163;
+}
