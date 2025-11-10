@@ -1,3 +1,0 @@
-happy:joyful cheerful delighted
-sad:unhappy gloomy depressed
-fast:quick rapid speedy
