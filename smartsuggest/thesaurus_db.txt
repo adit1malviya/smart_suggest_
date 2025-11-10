@@ -1,0 +1,70 @@
+happy:joyful, cheerful, delighted
+sad:unhappy, gloomy, depressed
+fast:quick, rapid, speedy
+slow: unhurried, sluggish, lethargic, gradual
+big: large, huge, enormous, gigantic, massive
+small: tiny, little, miniature, petite, diminutive
+angry: mad, furious, irate, enraged, annoyed
+tired: exhausted, weary, fatigued, drowsy
+smart: intelligent, clever, bright, brilliant, sharp
+funny: humorous, amusing, comical, witty, entertaining
+strong: powerful, robust, sturdy, mighty, resilient
+weak: feeble, fragile, frail, delicate, powerless
+beautiful: pretty, lovely, attractive, stunning, gorgeous
+ugly: unattractive, hideous, unpleasant, unsightly
+cold: chilly, freezing, icy, frigid
+hot: warm, scorching, boiling, blazing
+easy: simple, effortless, straightforward, uncomplicated
+hard: difficult, challenging, tough, demanding
+rich: wealthy, affluent, prosperous, well-off
+poor: impoverished, needy, destitute, penniless
+brave: courageous, bold, valiant, fearless
+coward: fearful, timid, timid-hearted, faint-hearted
+love: affection, adoration, fondness, devotion
+hate: loathe, detest, despise, dislike
+friend: companion, buddy, pal, mate
+enemy: foe, adversary, opponent, rival
+ancient: old, archaic, antique, prehistoric
+modern: contemporary, current, up-to-date, newfangled
+bright: radiant, luminous, gleaming, vivid
+dark: dim, shadowy, murky, somber
+quiet: silent, hushed, muted, serene
+loud: noisy, deafening, clamorous, boisterous
+sadistic: cruel, malicious, vicious, malevolent
+friendly: amiable, cordial, affable, sociable
+hostile: antagonistic, unfriendly, belligerent, aggressive
+generous: charitable, benevolent, magnanimous, giving
+stingy: miserly, tightfisted, parsimonious, penny-pinching
+polite: courteous, respectful, well-mannered, gracious
+rude: impolite, insolent, disrespectful, uncivil
+energetic: lively, vigorous, dynamic, spirited
+lazy: idle, sluggish, lethargic, indolent
+clean: spotless, tidy, immaculate, neat
+messy: untidy, cluttered, disorganized, sloppy
+optimistic: hopeful, positive, confident, upbeat
+pessimistic: gloomy, doubtful, negative, despairing
+careful: cautious, vigilant, attentive, prudent
+reckless: rash, careless, hasty, negligent
+polished: refined, sophisticated, elegant, stylish
+rough: coarse, rugged, harsh, jagged
+flexible: adaptable, versatile, pliable, supple
+stubborn: obstinate, headstrong, unyielding, inflexible
+calm: serene, tranquil, peaceful, composed
+anxious: worried, uneasy, nervous, fretful
+generative: productive, creative, fruitful, inventive
+destructive: damaging, ruinous, harmful, detrimental
+warm: friendly, cordial, welcoming, genial
+honest: truthful, sincere, upright, candid
+dishonest: deceitful, lying, fraudulent, untruthful
+fearful: apprehensive, timid, scared, nervous
+curious: inquisitive, questioning, probing, interested
+indifferent: apathetic, unconcerned, detached, neutral
+quietude: stillness, calm, silence, tranquility
+noisy: clamorous, rowdy, boisterous, raucous
+loyal: faithful, devoted, steadfast, true
+treacherous: disloyal, deceitful, perfidious, unreliable
+modest: humble, unassuming, reserved, meek
+arrogant: haughty, conceited, overbearing, proud
+graceful: elegant, poised, refined, stylish
+awkward: clumsy, ungainly, inelegant, uncoordinated
+

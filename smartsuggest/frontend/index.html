@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Suggest</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Canvas for bubbles -->
+  <canvas id="bubbleCanvas"></canvas>
+
+  <div class="search-container">
+    <h1 class="logo">
+      <span style="color:#FF3C78;">S</span>
+      <span style="color:#FFB900;">M</span>
+      <span style="color:#34A853;">A</span>
+      <span style="color:#4285F4;">R</span>
+      <span style="color:#EA4335;">T</span>
+      &nbsp;
+      <span style="color:#FF3C78;">S</span>
+      <span style="color:#FFB900;">U</span>
+      <span style="color:#34A853;">G</span>
+      <span style="color:#4285F4;">G</span>
+      <span style="color:#EA4335;">E</span>
+      <span style="color:#FF3C78;">S</span>
+      <span style="color:#FFB900;">T</span>
+    </h1>
+
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Type something..." autocomplete="off">
+      <ul id="suggestions"></ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+  <script src="bubbles.js"></script>
+</body>
+</html>
